@@ -1,8 +1,13 @@
-## 关于SEALYikang
-**SEALYikang 是一名大学一年级学生，本体来自陕西省西安市，现就读于桂林电子科技大学(Guilin University Of Electronic Technology)2025级电子工程与自动化学院自动化专业。**
-
-**这是 SEALYikang 的 GitHub，我将在这里分享我的数字工程、日常学习和政治观念，欢迎来自地球各处的爱好者与我一起享用😘**
-
-## 近期 Recently
-我正在独立编写以《键政学简明入门》为题的系列文章，本作品将以一般人类可以理解的口吻帮助读者了解中国国内政治历史和当前形势，预计于2025年第四季度或2026年早期完成。\
-若您对本项目有兴趣，欢迎您通过电子邮件、网络社群平台或实体信件提供稿件，SEALYikang 将视提供稿件价值给予合理报酬。
+## About SEALYikang
+**SEALYikang is a freshman from Xi'an, Shaanxi Province, currently major in Automation at the School of Electronic Engineering and Automation, Class of 2025, Guilin University of Electronic Technology.**
+**SEALYikang's GitHub Channel is there, where I will share my digital engineering, daily learning, and political ideas. I welcome all enthusiasts from all over the world to enjoy it😘**
+## 👨‍💻 Recently
+I will writing a series of articles entitled "A Compendious Introduction to Political Science"（键政简明教程）. This work will help readers understand China's domestic political history and current situation in a tone that is understandable to ordinary people. It is expected to be completed in the fourth quarter of 2025 or early 2026.\
+If you have interests about this project, you are welcomed to provide useable information via email, online social platforms or physical mail. SEALYikang will provide reasonable compensation based on the value.
+## 📱 Devices in Use
+### Phone/Pad
+- Xiaomi 15 Ultra,HyperOS 2.0.215.0(Android 15)
+- Xiaomi Pad 7S Pro,HyperOS 2.0.213.0,(Android 15)
+### Wearable/loT
+- MACHENIKE Shuguang 16S,Windows 11 24H2
+- HWAWEI Watch 4 Pro,Harmony OS 4.3.0(Android 12)
