@@ -1,5 +1,5 @@
 ## 关于SEALYikang
-**SEALYikang 是一名大学一年级学生，本体出生于陕西省西安市，现就读于桂林电子科技大学(Guilin University Of Electronic Technology)2025级电子工程与自动化学院自动化专业。**\
+**SEALYikang 是一名大学一年级学生，本体来自陕西省西安市，现就读于桂林电子科技大学(Guilin University Of Electronic Technology)2025级电子工程与自动化学院自动化专业。**
 
 **这是 SEALYikang 的 GitHub，我将在这里分享我的数字工程、日常学习和政治观念，欢迎来自地球各处的爱好者与我一起享用😘**
 
