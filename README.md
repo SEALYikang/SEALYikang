@@ -6,6 +6,8 @@ I will writing a series of articles entitled "A Compendious Introduction to Poli
 If you have interests about this project, you are welcomed to provide useable information via email, online social platforms or physical mail. SEALYikang will provide reasonable compensation based on the value.
 ## 📫 Get in Touch
 - [Telegram](https://t.me/SEALYikang)
+- [Email](mailto:faxiafeng@gmail.com)
+- [Bilibili](https://space.bilibili.com/289888769?spm_id_from=333.1007.0.0)
 ## 📱 Devices in Use
 ### Phone/Pad
 - Xiaomi 15 Ultra,HyperOS 2.0.215.0(Android 15)
