@@ -1,5 +1,5 @@
 # Language
-[English](https://github.com/SEALYikang/SEALYikang/blob/main/enus.md)       [中文简体]((https://github.com/SEALYikang/SEALYikang/blob/main/zhcn.md)       [正體中文]([https://github.com/SEALYikang/SEALYikang/blob/main/zhtw.md)
+[English](https://github.com/SEALYikang/SEALYikang/blob/main/enus.md)       [中文简体](https://github.com/SEALYikang/SEALYikang/blob/main/zhcn.md)       [正體中文](https://github.com/SEALYikang/SEALYikang/blob/main/zhtw.md)
 ## 🧐About SEALYikang
 SEALYikang is a freshman from Xi'an, Shaanxi Province, currently major in Automation at the School of Electronic Engineering and Automation, Class of 2025, Guilin University of Electronic Technology.\
 SEALYikang's GitHub Channel is there, where I will share my digital engineering, daily learning, and political ideas. I welcome all enthusiasts from all over the world to enjoy it😘
