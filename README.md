@@ -1,3 +1,5 @@
+# Language
+
 ## 🧐About SEALYikang
 SEALYikang is a freshman from Xi'an, Shaanxi Province, currently major in Automation at the School of Electronic Engineering and Automation, Class of 2025, Guilin University of Electronic Technology.\
 SEALYikang's GitHub Channel is there, where I will share my digital engineering, daily learning, and political ideas. I welcome all enthusiasts from all over the world to enjoy it😘
