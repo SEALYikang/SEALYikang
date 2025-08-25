@@ -6,5 +6,5 @@ SEALYikang is a freshman in college currently,born in Xi'an, Shaanxi Province, a
 This is SEALYikang's GitHub, where I shall share my digital engineering, learning resources, and political views. Welcome all enthusiasts from all over the world!!
 
 ## 近期 Recently
-我正在独立编写以《政治简明导论》为题的系列文章，本作品将以一般人类可以理解的口吻帮助读者了解中国国内政治历史和当前形势，预计于2025年第四季度或2026年早期完成。\
+我正在独立编写以《键政学简明入门》为题的系列文章，本作品将以一般人类可以理解的口吻帮助读者了解中国国内政治历史和当前形势，预计于2025年第四季度或2026年早期完成。\
 若您对本项目有兴趣，欢迎您通过电子邮件、网络社群平台或实体信件提供稿件，SEALYikang 将视提供稿件价值给予合理报酬。
