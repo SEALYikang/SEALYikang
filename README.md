@@ -1,3 +1,9 @@
+[![b_b0b422a0d1f0d6b3d916853050552ef0.jpg](https://youke1.picui.cn/s1/2025/09/09/68bfefa609a14.jpg)](https://youke1.picui.cn/s1/2025/09/09/68bfefa609a14.jpg)
+
+
+
+
+
 # 语言
 [English](https://github.com/SEALYikang/SEALYikang/blob/main/README.md)       [中文简体](https://github.com/SEALYikang/SEALYikang/blob/main/zhcn.md)       [正體中文](https://github.com/SEALYikang/SEALYikang/blob/main/zhtw.md)
 ## 🧐关于 SEALYikang
