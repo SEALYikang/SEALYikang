@@ -10,6 +10,8 @@ SEALYikang是來自中國陝西省西安市的一名大學一年級學生，目�
 - [Telegram電報](https://t.me/SEALYikang)
 - [電子郵件](mailto:faxiafeng@gmail.com)
 - [嗶哩嗶哩](https://space.bilibili.com/289888769?spm_id_from=333.1007.0.0)
+- [酷安](http://www.coolapk.com/u/10936550)
+- [小紅書](https://www.xiaohongshu.com/user/profile/558c80fbd232e1604c14b13b?xsec_token=YBNltSY4kims5rTJnS9GfK1hMDVWPjz4XLOQ-CCpzxsBo%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=558c80fbd232e1604c14b13b&apptime=1757408851&share_id=da22ac7eeef94d65a5fc7c8a528d6a7d&share_channel=copy_link)
 ## 📱 使用中硬體
 ### 手機/平板電腦
 - Xiaomi 15 Ultra,HyperOS 2.0.215.0(Android 15)
