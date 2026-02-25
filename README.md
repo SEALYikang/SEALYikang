@@ -15,12 +15,12 @@ SEALYikang是来自陕西西安的一名大一学生，现就读于桂林电子�
 - [小红书](https://www.xiaohongshu.com/user/profile/558c80fbd232e1604c14b13b?xsec_token=YBNltSY4kims5rTJnS9GfK1hMDVWPjz4XLOQ-CCpzxsBo%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=558c80fbd232e1604c14b13b&apptime=1757408851&share_id=da22ac7eeef94d65a5fc7c8a528d6a7d&share_channel=copy_link)
 ## 📱 当前设备
 ### 手机/平板电脑
-- Xiaomi 15 Ultra,HyperOS 2.0.215.0(Android 15)
+- Xiaomi 15 Ultra,HyperOS 3(Android 16)
 - Xiaomi 11,HyperOS 2.0.0(Android 14)
-- Xiaomi Pad 7S Pro,HyperOS 2.0.213.0,(Android 15)
+- Xiaomi Pad 7S Pro,HyperOS 3,(Android 16)
 ### 可穿戴智能设备
 - HWAWEI Watch 4 Pro,Harmony OS 4.3.0(Android 12)
 - OPPO Watch 3 Pro,ColorOS for Watch 5.0.0(Android 12)
 - OPPO Enco Free 4
 ### 移动计算机
-- MACHENIKE Shuguang 16S(R9 7945HX,RTX5070Ti),Windows 11 24H2
+- Mechrevo YAOSHI 16 Ultra(U9 275HX,RTX5070Ti),Windows 11 25H2
