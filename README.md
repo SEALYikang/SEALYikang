@@ -1,5 +1,5 @@
 # 语言
-[English](https://github.com/SEALYikang/SEALYikang/blob/main/ENUS.md) [正體中文](https://github.com/SEALYikang/SEALYikang/blob/main/zhtw.md)
+[English](https://github.com/SEALYikang/SEALYikang/blob/main/enus.md) [正體中文](https://github.com/SEALYikang/SEALYikang/blob/main/zhtw.md)
 ## 🧐关于 SEALYikang
 SEALYikang是来自陕西西安的一名大一学生，现就读于桂林电子科技大学2025级电子工程与自动化学院自动化专业。\
 这是我的 GitHub 账号，我将在此分享我的数字生活、日常学习和政治理念。欢迎来自世界各地的爱好者一同交流。😘
