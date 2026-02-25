@@ -1,6 +1,5 @@
-![头如像](https://youke1.picui.cn/s1/2025/09/09/68bfefa609a14.jpg)
 # 语言
-[English](https://github.com/SEALYikang/SEALYikang/blob/main/README.md)       [中文简体](https://github.com/SEALYikang/SEALYikang/blob/main/zhcn.md)       [正體中文](https://github.com/SEALYikang/SEALYikang/blob/main/zhtw.md)
+[English](https://github.com/SEALYikang/SEALYikang/blob/main/README.md) [正體中文](https://github.com/SEALYikang/SEALYikang/blob/main/zhtw.md)
 ## 🧐关于 SEALYikang
 SEALYikang是来自陕西西安的一名大一学生，现就读于桂林电子科技大学2025级电子工程与自动化学院自动化专业。\
 这是我的 GitHub 账号，我将在此分享我的数字生活、日常学习和政治理念。欢迎来自世界各地的爱好者一同交流。😘
